@@ -1,10 +1,9 @@
-# awesome-icons
+# 🎨 awesome-icons
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 List of free icon sets for UI design
 
-`Feel free to contribute an icon set via Issues!`
 
 - 🌰 https://akaricons.com/
 - 🔎 https://iconscout.com/unicons
@@ -18,3 +17,7 @@ List of free icon sets for UI design
 - 🍓 https://jam-icons.com/
 - 🛠️ https://tablericons.com/
 - 🎶 https://remixicon.com/
+
+---
+
+> *Feel free to contribute an icon set via [Issues](https://github.com/digitalblossom/awesome-icons/issues)!*
