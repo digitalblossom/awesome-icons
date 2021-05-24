@@ -1,4 +1,7 @@
 # awesome-icons
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 List of free icon sets for UI design
 
 `Feel free to contribute an icon set via Issues!`
