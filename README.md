@@ -19,6 +19,7 @@ List of free icon sets for UI design
 - 🎶 https://remixicon.com/
 - ♾️ https://lineicons.com/
 - ⚛️ https://ionic.io/ionicons
+- 📐 https://fonts.google.com/icons
 
 
 *Feel free to contribute an icon set via [Issues](https://github.com/digitalblossom/awesome-icons/issues)!*
