@@ -21,5 +21,7 @@ List of free icon sets for UI design
 - ⚛️ https://ionic.io/ionicons
 - 📐 https://fonts.google.com/icons
 
+- List: https://www.productdesignresources.com/icon-library-resources-and-free-open-source-icons
+
 
 *Feel free to contribute an icon set via [Issues](https://github.com/digitalblossom/awesome-icons/issues)!*
