@@ -33,4 +33,5 @@ Note: Make sure to check the licenses before using. Some might require linking b
 
 ### Lists
 - https://www.uigoodies.com/?category=Icons
+- https://react-icons.github.io/react-icons/
 
