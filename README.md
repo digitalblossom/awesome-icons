@@ -11,6 +11,7 @@ Note: Make sure to check the licenses before using. Some might require linking b
 --- 
 
 - 🌰 https://akaricons.com/
+- 📘 https://blueprintjs.com/docs/#icons
 - 🐣 https://feathericons.com/
 - 8️⃣ https://icons8.com/
 - 🔎 https://iconscout.com/unicons
