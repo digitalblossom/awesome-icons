@@ -28,6 +28,7 @@ Note: Make sure to check the licenses before using. Some might require linking b
 - ♾️ https://lineicons.com/
 - ⚛️ https://ionic.io/ionicons
 - 📐 https://fonts.google.com/icons
+- 🏞️ https://iconpark.oceanengine.com/official
 
 ### Animated
 - 👑 https://lordicon.com/icons 
