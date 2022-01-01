@@ -34,6 +34,7 @@ Note: Make sure to check the licenses before using. Some might require linking b
 - 👑 https://lordicon.com/icons 
 
 ### Lists
+- https://iconsear.ch/sources/index.html
 - https://www.uigoodies.com/?category=Icons
 - https://react-icons.github.io/react-icons/
 
