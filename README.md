@@ -2,6 +2,14 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+___
+Not maintained, please use Iconify, Icones or React Icons
+
+https://icones.netlify.app/
+https://iconify.design/
+https://react-icons.github.io/
+___
+
 List of free icon sets for UI design
 
 Note: Make sure to check the licenses before using. Some might require linking back to the source and/or license for instance.
